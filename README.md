@@ -49,5 +49,21 @@ The complete Excel workbook is included in this repository:
 `RCI_Industries_Financial_Statement_Analysis_2014_2025.xlsx`
 
 ## Disclaimer
+## Project Screenshots
+
+### Annual Financial Statement Analysis
+![Annual Financial Statement Analysis](annual-financial-statement-analysis.png)
+
+### Income Statement Analysis
+![Income Statement Analysis](income-statement-analysis.png)
+
+### Balance Sheet Analysis
+![Balance Sheet Analysis](balance-sheet-analysis.png)
+
+### Cash Flow Analysis
+![Cash Flow Analysis](cash-flow-analysis.png)
+
+### Ratio Analysis
+![Ratio Analysis](ratio-analysis.png)
 
 This project is created for educational and portfolio purposes using publicly available company information. It is not intended as investment advice or a professional financial recommendation.
