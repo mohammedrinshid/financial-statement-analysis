@@ -1,4 +1,3 @@
-# financial-statement-analysis
 # RCI Industries – Financial Statement Analysis (2014–2025)
 
 ## Project Overview
